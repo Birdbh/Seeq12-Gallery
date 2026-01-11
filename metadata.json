@@ -1,0 +1,5 @@
+{
+  "name": "Seeq Enhanced Gallery",
+  "description": "A modern, AI-powered catalog for Seeq add-ons and tools, leveraging the GitHub API and Gemini to provide enhanced insights into the Seeq ecosystem.",
+  "requestFramePermissions": []
+}
